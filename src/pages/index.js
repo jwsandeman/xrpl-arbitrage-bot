@@ -13,9 +13,7 @@ const Home = () => {
 
       <div className={styles.container}>
         <div className={styles.toastContainer}>
-          <p>
-            <strong>Congrats!</strong> Your app is ready.
-          </p>
+          <h1>Arbitrage Bot</h1>
         </div>
 
         <main className={styles.main}>
