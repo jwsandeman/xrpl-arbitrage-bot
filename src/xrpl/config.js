@@ -1,6 +1,6 @@
 // import { testEnvironment } from "./testEnvironment"
 
-export const serverUrl = "wss://s.altnet.rippletest.net:51233" // Use this for testnet
+export const serverUrl = "wss://s.altnet.rippletest.net:51233/" // Use this for testnet
 // export const serverUrl = 'wss://s1.ripple.com'; // Use this for mainnet
 
 export const myAddress = "rEAjpWs1Zmvj9gR61h7Y8gzAMcYp6TkZsk"
